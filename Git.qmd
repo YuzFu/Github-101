@@ -1,5 +1,5 @@
 ---
-title: "Github"
+title: "Git"
 format: html
 editor: visual
 ---
